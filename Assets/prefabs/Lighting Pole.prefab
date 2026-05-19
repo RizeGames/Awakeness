@@ -119,6 +119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lighting Pole light
       objectReference: {fileID: 0}
+    - target: {fileID: 1052616993628546218, guid: a3f42bee6d0616b44bc7c4cd29b2c7be, type: 3}
+      propertyPath: m_Intensity
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 1505678663749426114, guid: a3f42bee6d0616b44bc7c4cd29b2c7be, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.01
