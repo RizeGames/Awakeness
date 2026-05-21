@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 945188c3080976940a0d1b40947b6c6d
+guid: 449bbec24c8b48c4088fdb1f994947d0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Baked Traffic Cone_
-    second: {fileID: 2100000, guid: 536e6072430569448b1463df3f77e47b, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
