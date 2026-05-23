@@ -3,12 +3,7 @@ guid: 5d367747ffd55584e95f7cc8992fc1f6
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Baked Speaker Pole
-    second: {fileID: 2100000, guid: 7293e588682cd1648af0a589b1c2d622, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

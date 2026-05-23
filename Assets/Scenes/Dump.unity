@@ -13492,6 +13492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Metallic Grid Gate
       objectReference: {fileID: 0}
+    - target: {fileID: 1339997082500420699, guid: f91e043860887f1418e67fd693cbb6e1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7221528311573437522, guid: f91e043860887f1418e67fd693cbb6e1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 438.836
